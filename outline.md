@@ -17,6 +17,9 @@
 
 (研究をはじめるにあたり、どのように従来研究の調査をおこなうかを記入しなさい。（研究室の先輩の研究を調べる、図書館で調べる、ネットで調べるなどの調査方法の列挙のみは不可。具体的に従来研究を列挙する。）)
 
+Cathal Doyle, Rodreck David, Yevgeniya Li, Markus Luczak-Roesch, Dayle Anderson, and Cameron M. Pierson. 2019. Using the Web for Science in the Classroom: Online Citizen Science Participation in Teaching and Learning. In Proceedings of the 10th ACM Conference on Web Science (WebSci '19). Association for Computing Machinery, New York, NY, USA, 71–80. DOI:https://doi.org/10.1145/3292522.3326022
+
+
 ## 提案内容
 
 (本研究で提案・実証したい内容について記入しなさい。調査研究の場合には、どのような調査を行うことによって、何を明らかにするかについて記入しなさい。（「新しい手法を提案する」だけは不可。後に修正していいので、現在考えられる範囲で具体的に内容を記述する。）)
